@@ -3,7 +3,7 @@ name = "SigmaOS-repository-signing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "repository-signing component"
+description = "Repository Signing"
 upstream = []
 
 [contract]
